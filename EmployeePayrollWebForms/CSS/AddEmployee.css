@@ -1,0 +1,14 @@
+﻿.registration-form {
+    margin-left: 30%;
+}
+
+input[type=text] {
+    border: solid 1px gray;
+    padding: 2px;
+}
+
+input[type=text]:hover {
+    border: solid 1px lightgray;
+    padding: 2px;
+}
+

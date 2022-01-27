@@ -1,0 +1,23 @@
+﻿.main-container{
+    margin:2% 30%;
+    border : 2px solid blue;
+    padding: 2%;
+    border-radius:4%;
+}
+
+h3 {
+    color: #42515f;
+}
+
+input[type=text]{
+    margin:8% 0%;
+}
+
+#emailTextBox{
+    width:84%;
+    color:aqua;
+}
+
+.buttons-container{
+    border:5px solid green;
+}
